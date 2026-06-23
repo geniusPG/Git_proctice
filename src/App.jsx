@@ -10,6 +10,7 @@ function App() {
   return (
     <>
     <h2>案A</h2>
+    <h2>案C</h2>
       <div className="ticks"></div>
       <section id="next-steps">
         <div id="docs">
