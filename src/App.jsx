@@ -10,13 +10,13 @@ function App() {
   return (
     <>
       <section id="center">
+        <h2>featureに対して変更を加えます。</h2>
         <div className="hero">
           <img src={heroImg} className="base" width="170" height="179" alt="" />
           <img src={reactLogo} className="framework" alt="React logo" />
           <img src={viteLogo} className="vite" alt="Vite logo" />
         </div>
         <h2>Gitの動作確認のためにファイルに編集を加えます。</h2>
-        <h2>feature-loginに対して変更を加えます。</h2>
         <div>
           <h1>Get started</h1>
           <p>
