@@ -16,7 +16,7 @@ function App() {
           <img src={viteLogo} className="vite" alt="Vite logo" />
         </div>
         <h2>Gitの動作確認のためにファイルに編集を加えます。</h2>
-        <h2>mainに対して、、更新を加えました。</h2>
+        <h2>mainに対してver2、、更新を加えました。</h2>
         <div>
           <h1>Get started</h1>
           <p>
