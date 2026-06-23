@@ -15,6 +15,7 @@ function App() {
           <img src={reactLogo} className="framework" alt="React logo" />
           <img src={viteLogo} className="vite" alt="Vite logo" />
         </div>
+        <h2>Gitの動作確認のためにファイルに編集を加えます。</h2>
         <div>
           <h1>Get started</h1>
           <p>
