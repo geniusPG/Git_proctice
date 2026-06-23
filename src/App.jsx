@@ -9,8 +9,8 @@ function App() {
 
   return (
     <>
-    <h1>main03</h1>
-    <h2>main03</h2>
+    <h1>feature03</h1>
+    <h2>feature03</h2>
       <section id="center">
         <div className="hero">
           <img src={heroImg} className="base" width="170" height="179" alt="" />
@@ -18,7 +18,7 @@ function App() {
           <img src={viteLogo} className="vite" alt="Vite logo" />
         </div>
         <h2>Gitの動作確認のためにファイルに編集を加えます。</h2>
-        <h2>mainに対してver2、、更新を加えました。</h2>
+        <h2>featureに対して変更を加えます。</h2>
         <div>
           <h1>Get started</h1>
           <p>
