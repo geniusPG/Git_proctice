@@ -9,8 +9,7 @@ function App() {
 
   return (
     <>
-    <h2>main01</h2>
-    <h2>feature01</h2>
+    <h1>main01</h1>
       <section id="center">
         <div className="hero">
           <img src={heroImg} className="base" width="170" height="179" alt="" />
