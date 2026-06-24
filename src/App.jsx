@@ -1,3 +1,5 @@
+// Mainです
+
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from './assets/vite.svg'
@@ -9,7 +11,7 @@ function App() {
 
   return (
     <>
-    <h2>feature02</h2>
+    <h1>main02</h1>
       <section id="center">
         <div className="hero">
           <img src={heroImg} className="base" width="170" height="179" alt="" />
