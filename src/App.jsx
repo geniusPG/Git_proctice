@@ -9,7 +9,7 @@ function App() {
 
   return (
     <>
-    <h2>feature</h2>
+    <h2>feature01</h2>
       <section id="center">
         <div className="hero">
           <img src={heroImg} className="base" width="170" height="179" alt="" />
@@ -34,7 +34,6 @@ function App() {
       </section>
 
       <div className="ticks"></div>
-
       <section id="next-steps">
         <div id="docs">
           <svg className="icon" role="presentation" aria-hidden="true">
