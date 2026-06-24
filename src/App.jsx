@@ -9,7 +9,6 @@ function App() {
 
   return (
     <>
-    <h2>main01</h2>
     <h2>feature01</h2>
       <section id="center">
         <div className="hero">
