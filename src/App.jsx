@@ -10,6 +10,7 @@ function App() {
 
   return (
     <>
+    <h1>feature</h1>
     <h2>featureのメインブランチ。現状コミットグラフは２つ</h2>
       <section id="center">
         <div className="hero">
