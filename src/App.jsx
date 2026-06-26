@@ -10,7 +10,8 @@ function App() {
 
   return (
     <>
-    <h2>featureのメインブランチ。現状コミットグラフは２つ</h2>
+    <h1>feature-sub</h1>
+    <h2>featureのサブブランチ。現状コミットグラフは2つ</h2>
       <section id="center">
         <div className="hero">
           <img src={heroImg} className="base" width="170" height="179" alt="" />
